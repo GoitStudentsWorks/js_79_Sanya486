@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Sanya486/cinemania_by_DevTeam",
+  "homepage": "https://github.com/GoitStudentsWorks/js_79_Sanya486",
   "scripts": {
     "start": "parcel src/*.html --port 9999",
-    "build": "parcel build src/*.html --public-url /cinemania_by_DevTeam/"
+    "build": "parcel build src/*.html --public-url /js_79_Sanya486/"
   },
   "repository": {
     "type": "git",
